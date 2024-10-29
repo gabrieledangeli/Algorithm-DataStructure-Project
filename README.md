@@ -1,7 +1,9 @@
-# Text Editor with Undo and Redo (C)
-## Algorithms and Principles of Computer Science, Politecnico di Milano AY 2018-2019
+# **Text Editor with Undo and Redo**
+## **Algorithms and Principles of Computer Science, Politecnico di Milano 2018-2019**
 
-This repository contains the code for the Algorithms and Principles of Computer Science project at Politecnico di Milano written by Gabriele D'Angeli. The project involves implementing a text editor that supports multiple undo and redo operations, inspired by the interface of the traditional `ed` editor.
+This repository contains the code for the **Algorithms and Principles of Computer Science** project at **Politecnico di Milano** written by **Gabriele D'Angeli**. 
+
+The project involves implementing a text editor that supports multiple undo and redo operations, inspired by the interface of the traditional `ed` editor.
 
 ## Project Description
 
